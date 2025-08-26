@@ -28,7 +28,7 @@
 
 - 📬 You can reach me at jan.rzepkowski@takeda.com
 
-- 📚 I'm currently learning Power Apps, Automate web development
+- 📚 I'm currently learning Power Apps, Automate & web development
 
 - 🤝 I'm open to collaborating on interesting projects
 
