@@ -6,18 +6,12 @@
   <a href="https://www.linkedin.com/in/jan-rzepkowski-461831306/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/JanRzepkowski21" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://t.me/JohnFlam3" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="25" alt="telegram logo" />
-  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=janrzepkowski.janrzepkowski&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=janrzepkowski-Takeda.janrzepkowski-Takeda&"  />
 </div>
 
 ###
